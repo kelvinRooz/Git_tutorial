@@ -7,7 +7,7 @@ def get_funny_motivational_quote():
         "If at first you don’t succeed, skydiving is not for you.",
         "Dream big! Unless your dreams are silly, then just dream moderately.",
         "The elevator to success is out of order. You'll have to use the stairs, one step at a time.",
-        "You miss 100% of the naps you don’t take.",
+        "You miss 100% of the naps you don’t take.","Never say it’s too late",
         "If you think nobody cares if you’re alive, try missing a couple of car payments.",
         "Be yourself; everyone else is already taken, and probably not as funny.",
         "I find television very educational. Every time someone turns it on, I go read a book.",
